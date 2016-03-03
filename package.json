@@ -1,0 +1,15 @@
+{
+  "name": "Game-Application-Directory",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0beta4",
+    "jade": "*",
+    "mongoose": "~2.7.x"
+  },
+  "author": "Timothy C Davis",
+  "description": "Web service to show games that people might want to find and play "
+}
